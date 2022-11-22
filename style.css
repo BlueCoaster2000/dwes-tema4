@@ -1,0 +1,33 @@
+body {
+  background-color:whitesmoke;
+  color: rgb(48, 45, 45);
+}
+
+nav {
+  display: inline-block;
+}
+li {
+  display: inline-block;
+  border: solid 3px whitesmoke;
+  color: rgb(28, 25, 26);
+  background-color: beige;
+  justify-content: center;
+  padding: 30px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(28, 25, 26);
+}
+a:hover {
+  background-color: darkolivegreen;
+  color: whitesmoke;
+}
+
+strong{
+  
+  background-color: rgb(194, 188, 216);
+  color: whitesmoke;
+
+}
